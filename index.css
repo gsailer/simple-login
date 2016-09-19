@@ -1,5 +1,7 @@
 body {
 	background-color: #34495e;
+	background: url("https://hd.unsplash.com/photo-1465101162946-4377e57745c3");
+	background-size: cover;
 }
 #login {
 	position: absolute;
@@ -15,7 +17,7 @@ body {
 	border-style: solid;
 	border-color: #212121;
 	padding: 1%;
-	box-shadow: 1px 5px 5px #78909C;
+	box-shadow: 1px 10px 10px #78909D;
 }
 
 #login input {
